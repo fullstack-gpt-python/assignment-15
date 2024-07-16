@@ -138,8 +138,8 @@ Welcome!
             
 Use this chatbot to ask questions to an AI about your files!
 
-1. Input your OpenAI API Key on Sideba
-2. Upload your files on the sidebar.
+1. Input your OpenAI API Key on the sidebar
+2. Upload your file on the sidebar.
 3. Ask questions related to the document.
 """
 )
