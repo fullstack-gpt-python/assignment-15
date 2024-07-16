@@ -98,7 +98,7 @@ def main():
     llm = ChatOpenAI(
         temperature=0.1,
         streaming=True,
-        api_key=openai_api_key,
+        openai_api_key=openai_api_key,
         callbacks=[
             ChatCallbackHandler(),
         ],
